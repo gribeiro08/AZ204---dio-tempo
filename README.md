@@ -3,10 +3,7 @@
 Estava realizando os exemplos com a conta corporativa de estudante, acontece que com essa conta eu nãwo posso utilizar o azure devops, pois a organização bloqueia.
 Consegui acompanhar até o momento de gerar a imagem, após isso não consegui conectar o Docker com o Azure Devops para gerar a imagem.
 Segue o codigo Yaml
-# Starter pipeline
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
+
 
 trigger:
 - main
